@@ -1,3 +1,3 @@
-module github.com/Merith-TK/packwiz-wrapper
+module github.com/mc-infra/packwiz-wrapper
 
 go 1.18
